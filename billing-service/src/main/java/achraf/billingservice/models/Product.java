@@ -1,2 +1,10 @@
-package achraf.billingservice.models;public class Product {
+package achraf.billingservice.models;
+
+import lombok.Data;
+
+@Data
+public class Product {
+    private Long id;
+    private String name;
+    private double price;
 }
