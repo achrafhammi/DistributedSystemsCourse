@@ -1,6 +1,6 @@
-package org.example.kafkaspring.web;
+package achraf.tp3.web;
 
-import org.example.kafkaspring.entities.PageEvent;
+import achraf.tp3.entities.PageEvent;
 import org.springframework.cloud.stream.function.StreamBridge;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package org.example.kafkaspring.entities;
+package achraf.tp3.entities;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

@@ -1,6 +1,6 @@
-package org.example.kafkaspring.services;
+package achraf.tp3.services;
 
-import org.example.kafkaspring.entities.PageEvent;
+import achraf.tp3.entities.PageEvent;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Service;
 
